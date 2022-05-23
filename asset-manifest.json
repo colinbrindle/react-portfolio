@@ -1,16 +1,15 @@
 {
-  "files": {
-    "main.css": "/colinbrindle/react-portfolio/static/css/main.073c9b0a.css",
-    "main.js": "/colinbrindle/react-portfolio/static/js/main.890faabf.js",
-    "static/js/787.1ed0c42c.chunk.js": "/colinbrindle/react-portfolio/static/js/787.1ed0c42c.chunk.js",
-    "static/media/logo.svg": "/colinbrindle/react-portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/colinbrindle/react-portfolio/index.html",
-    "main.073c9b0a.css.map": "/colinbrindle/react-portfolio/static/css/main.073c9b0a.css.map",
-    "main.890faabf.js.map": "/colinbrindle/react-portfolio/static/js/main.890faabf.js.map",
-    "787.1ed0c42c.chunk.js.map": "/colinbrindle/react-portfolio/static/js/787.1ed0c42c.chunk.js.map"
-  },
-  "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.890faabf.js"
-  ]
+  "main.css": "/colinbrindle/react-portfolio/static/css/main.41781f8b.chunk.css",
+  "main.js": "/colinbrindle/react-portfolio/static/js/main.a21dd009.chunk.js",
+  "main.js.map": "/colinbrindle/react-portfolio/static/js/main.a21dd009.chunk.js.map",
+  "static/css/1.e1c31a22.chunk.css": "/colinbrindle/react-portfolio/static/css/1.e1c31a22.chunk.css",
+  "static/js/1.67e978e5.chunk.js": "/colinbrindle/react-portfolio/static/js/1.67e978e5.chunk.js",
+  "static/js/1.67e978e5.chunk.js.map": "/colinbrindle/react-portfolio/static/js/1.67e978e5.chunk.js.map",
+  "runtime~main.js": "/colinbrindle/react-portfolio/static/js/runtime~main.9c50694c.js",
+  "runtime~main.js.map": "/colinbrindle/react-portfolio/static/js/runtime~main.9c50694c.js.map",
+  "static/css/main.41781f8b.chunk.css.map": "/colinbrindle/react-portfolio/static/css/main.41781f8b.chunk.css.map",
+  "static/css/1.e1c31a22.chunk.css.map": "/colinbrindle/react-portfolio/static/css/1.e1c31a22.chunk.css.map",
+  "index.html": "/colinbrindle/react-portfolio/index.html",
+  "precache-manifest.0a82d7698772502ac35f4cc45ec3741e.js": "/colinbrindle/react-portfolio/precache-manifest.0a82d7698772502ac35f4cc45ec3741e.js",
+  "service-worker.js": "/colinbrindle/react-portfolio/service-worker.js"
 }
