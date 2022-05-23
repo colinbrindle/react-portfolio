@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/colinbrindle/react-portfolio/precache-manifest.0a82d7698772502ac35f4cc45ec3741e.js"
+  "github.com/colinbrindle/react-portfolio/precache-manifest.47a02af58b001d7ada6a45a9b9e93b3e.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/colinbrindle/react-portfolio/index.html", {
+workbox.routing.registerNavigationRoute("github.com/colinbrindle/react-portfolio/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });
