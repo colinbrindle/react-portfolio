@@ -1,15 +1,15 @@
 {
-  "main.css": "github.com/colinbrindle/react-portfolio/static/css/main.289da143.chunk.css",
-  "main.js": "github.com/colinbrindle/react-portfolio/static/js/main.89bbc5b6.chunk.js",
-  "main.js.map": "github.com/colinbrindle/react-portfolio/static/js/main.89bbc5b6.chunk.js.map",
-  "static/css/1.5bf7cd9b.chunk.css": "github.com/colinbrindle/react-portfolio/static/css/1.5bf7cd9b.chunk.css",
-  "static/js/1.3bc66a34.chunk.js": "github.com/colinbrindle/react-portfolio/static/js/1.3bc66a34.chunk.js",
-  "static/js/1.3bc66a34.chunk.js.map": "github.com/colinbrindle/react-portfolio/static/js/1.3bc66a34.chunk.js.map",
-  "runtime~main.js": "github.com/colinbrindle/react-portfolio/static/js/runtime~main.8734a76b.js",
-  "runtime~main.js.map": "github.com/colinbrindle/react-portfolio/static/js/runtime~main.8734a76b.js.map",
-  "static/css/main.289da143.chunk.css.map": "github.com/colinbrindle/react-portfolio/static/css/main.289da143.chunk.css.map",
-  "static/css/1.5bf7cd9b.chunk.css.map": "github.com/colinbrindle/react-portfolio/static/css/1.5bf7cd9b.chunk.css.map",
-  "index.html": "github.com/colinbrindle/react-portfolio/index.html",
-  "precache-manifest.0f898b884009e5f378e8432a5d971967.js": "github.com/colinbrindle/react-portfolio/precache-manifest.0f898b884009e5f378e8432a5d971967.js",
-  "service-worker.js": "github.com/colinbrindle/react-portfolio/service-worker.js"
+  "main.css": "/colinbrindle/react-portfolio/static/css/main.289da143.chunk.css",
+  "main.js": "/colinbrindle/react-portfolio/static/js/main.89bbc5b6.chunk.js",
+  "main.js.map": "/colinbrindle/react-portfolio/static/js/main.89bbc5b6.chunk.js.map",
+  "static/css/1.5bf7cd9b.chunk.css": "/colinbrindle/react-portfolio/static/css/1.5bf7cd9b.chunk.css",
+  "static/js/1.3bc66a34.chunk.js": "/colinbrindle/react-portfolio/static/js/1.3bc66a34.chunk.js",
+  "static/js/1.3bc66a34.chunk.js.map": "/colinbrindle/react-portfolio/static/js/1.3bc66a34.chunk.js.map",
+  "runtime~main.js": "/colinbrindle/react-portfolio/static/js/runtime~main.9c50694c.js",
+  "runtime~main.js.map": "/colinbrindle/react-portfolio/static/js/runtime~main.9c50694c.js.map",
+  "static/css/main.289da143.chunk.css.map": "/colinbrindle/react-portfolio/static/css/main.289da143.chunk.css.map",
+  "static/css/1.5bf7cd9b.chunk.css.map": "/colinbrindle/react-portfolio/static/css/1.5bf7cd9b.chunk.css.map",
+  "index.html": "/colinbrindle/react-portfolio/index.html",
+  "precache-manifest.80c2a978bff5ceed5e16310a3588ae2e.js": "/colinbrindle/react-portfolio/precache-manifest.80c2a978bff5ceed5e16310a3588ae2e.js",
+  "service-worker.js": "/colinbrindle/react-portfolio/service-worker.js"
 }
