@@ -4,7 +4,7 @@ import "../../styles/Contact.css";
 function Contact() {
   return (
     <div>
-      <a className="Contact"></a>
+      <a name="Contact"></a>
       <div className="container contact-margin">
         <div className="row">
           <div className="col-lg-3 col-sm-12 text-lg-end text-sm-start">

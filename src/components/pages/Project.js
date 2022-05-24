@@ -4,7 +4,7 @@ import "../../styles/Project.css";
 function Project() {
   return (
     <div>
-      <a className="Portfolio"></a>
+      <a name="Portfolio"></a>
       <div className="container project-margin">
         <div className="row">
           <div className="col-lg-3 col-sm-12 text-lg-end text-sm-start">
