@@ -36,10 +36,10 @@ function About() {
             <p>
               A little bit about myself: I am half Taiwanese-American (my mom's
               side is Taiwanese) and I currently live in Atlanta, GA with my
-              boyfriend, Mikey, and my wonderful cat, Katya Ravioli Brindle --
-              we call her Kat for short. You'll usually find me busy in the
-              kitchen or glued to my couch playing Elden Ring in my free time.
-              I'm also a big fan of the outdoors and love a good hike!
+              boyfriend, Mikey, and my wonderful cat, Katya Ravioli Brindle — we
+              call her Kat for short. You'll usually find me busy in the kitchen
+              or glued to my couch playing Elden Ring in my free time. I'm also
+              a big fan of the outdoors and love a good hike!
             </p>
             <p>
               If you like what you see here, don't hesitate to reach out by

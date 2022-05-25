@@ -1,3 +1,8 @@
 .project-margin {
     margin-top: 40px;
 }
+
+.card {
+    margin-bottom: 10px;
+    height: 15rem;
+}

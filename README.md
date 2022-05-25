@@ -1,3 +1,17 @@
 # React Portfolio
 
-_Herein lie the humble beginnings of a react portfolio..._
+## **User Story**
+
+```md
+AS AN employer looking for candidates with experience building single-page applications
+I WANT to view a potential employee's deployed React portfolio of work samples
+SO THAT I can assess whether they're a good candidate for an open position
+```
+
+## **Site Link**
+
+[Heroku deployed portfolio](https://colinbrindle.herokuapp.com/)
+
+## **Site Screenshots**
+
+![Site screenshot](./src//components/imgs/site.png)
